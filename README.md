@@ -1,4 +1,4 @@
-<img src = "/public/bg2.gif">
+<img src = "/public/tk00.gif">
 
 <hr>
 
