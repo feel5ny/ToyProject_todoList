@@ -1,3 +1,11 @@
+> second commit
+- ~~checkbox 수정~~
+- ~~refresh후에도 유지되도록 수정~~
+<img src = "/public/tk01.gif">
+
+> first commit
+- checkbox 수정
+- refresh후에도 유지되도록 수정
 <img src = "/public/tk00.gif">
 
 <hr>
