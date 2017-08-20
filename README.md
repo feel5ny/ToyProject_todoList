@@ -1,4 +1,4 @@
-<img src = "/public/tk01.gif">
+<img src = "/public/tk01_2.gif">
 
 > second commit
 - ~~checkbox 수정~~
